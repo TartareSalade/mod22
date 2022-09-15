@@ -1,0 +1,11 @@
+name: Moderationplugin
+version: '${project.version}'
+main: fr.tartare.mod.Mod
+api-version: 1.17
+prefix: ModPlugin
+authors: [ Tartare ]
+commands:
+  mod:
+    description: mod command
+    usage: /mod
+
